@@ -1,2 +1,2 @@
 # RU2018F-CS596
-repo for homework
+This is NOT a perfect solution.
